@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @eingengraou
-- 👀 More about me ?
- [eingengraou.github.io](http://eingengraou.github.io)
+- 👋 Hi, I’m [@eingengraou](http://eingengraou.github.io)
